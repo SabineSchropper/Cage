@@ -1,0 +1,13 @@
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.csprojAssemblyReference.cache
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.AssemblyInfoInputs.cache
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.AssemblyInfo.cs
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.exe
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.deps.json
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.runtimeconfig.json
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.runtimeconfig.dev.json
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.dll
+C:\Users\DCV\C#\Cage\Cage\bin\Debug\netcoreapp3.1\Cage.pdb
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.dll
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.pdb
+C:\Users\DCV\C#\Cage\Cage\obj\Debug\netcoreapp3.1\Cage.genruntimeconfig.cache
